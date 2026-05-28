@@ -5,7 +5,7 @@ package com.example.proyectogrupo7;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hola grupo7!";
     }
 
     public static void main(String[] args) {
